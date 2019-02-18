@@ -13,7 +13,7 @@ namespace GuessANumber
 
            
             // If they enter 8, output “You Win!”. Otherwise, output “You Lose”. Do this using an inline if statement.
-            Console.WriteLine(message);          
+            Console.WriteLine(message);
             Console.ReadLine();
         }
     }
